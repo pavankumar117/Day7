@@ -1,0 +1,18 @@
+body {
+background-color: skyblue;
+color: green;
+image : url(https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg);
+}
+
+#new {
+color : red;
+}
+
+div.image {
+  content : url(https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg);
+}
+
+#img{
+  width : 500;
+  height : 300;
+}
